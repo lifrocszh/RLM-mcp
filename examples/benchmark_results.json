@@ -1,0 +1,64 @@
+{
+  "dataset": {
+    "path": "examples/benchmark_corpus.txt",
+    "characters": 124607,
+    "estimated_full_file_tokens": 31151,
+    "line_count": 2160
+  },
+  "server": {
+    "initialize_seconds": 0.106605,
+    "load_context_seconds": 0.001317,
+    "initialize_result": {
+      "protocolVersion": "2024-11-05",
+      "capabilities": {
+        "tools": {
+          "listChanged": false
+        }
+      },
+      "serverInfo": {
+        "name": "rlm-mcp",
+        "version": "0.1.0"
+      }
+    },
+    "context_id": "benchmark_corpus.txt:1777022894726817782",
+    "chunk_count": 20,
+    "chunk_lines": 120,
+    "overlap_lines": 12
+  },
+  "totals": {
+    "flat_tokens_for_queries": 93525,
+    "mcp_tokens_for_queries_plus_load": 3606,
+    "token_reduction_percent": 96.14,
+    "avg_search_latency_ms": 0.51,
+    "p95_search_latency_ms": 0.62
+  },
+  "queries": [
+    {
+      "name": "rare-anchor",
+      "query": "RLM_NOTE_173",
+      "flat_tokens": 31173,
+      "mcp_tokens": 190,
+      "token_reduction_percent": 99.39,
+      "search_latency_ms": 0.53,
+      "match_count": 1
+    },
+    {
+      "name": "search-key",
+      "query": "SEARCH_KEY_219",
+      "flat_tokens": 31174,
+      "mcp_tokens": 159,
+      "token_reduction_percent": 99.49,
+      "search_latency_ms": 0.62,
+      "match_count": 1
+    },
+    {
+      "name": "shared-phrase",
+      "query": "recursive summarization anchor",
+      "flat_tokens": 31178,
+      "mcp_tokens": 2701,
+      "token_reduction_percent": 91.34,
+      "search_latency_ms": 0.39,
+      "match_count": 20
+    }
+  ]
+}

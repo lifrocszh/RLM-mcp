@@ -1,0 +1,2159 @@
+## Section 1
+module_name = "module_1"
+owner = "team_1"
+service_1 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_001: recursive summarization anchor for chunk 1.
+SEARCH_KEY_001: special token for evaluation query routing.
+Error handling path 1 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 2
+module_name = "module_2"
+owner = "team_2"
+service_2 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_002: recursive summarization anchor for chunk 2.
+SEARCH_KEY_002: special token for evaluation query routing.
+Error handling path 2 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 3
+module_name = "module_3"
+owner = "team_3"
+service_3 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_003: recursive summarization anchor for chunk 3.
+SEARCH_KEY_003: special token for evaluation query routing.
+Error handling path 3 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 4
+module_name = "module_4"
+owner = "team_4"
+service_4 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_004: recursive summarization anchor for chunk 4.
+SEARCH_KEY_004: special token for evaluation query routing.
+Error handling path 4 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 5
+module_name = "module_5"
+owner = "team_5"
+service_5 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_005: recursive summarization anchor for chunk 5.
+SEARCH_KEY_005: special token for evaluation query routing.
+Error handling path 5 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 6
+module_name = "module_6"
+owner = "team_6"
+service_6 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_006: recursive summarization anchor for chunk 6.
+SEARCH_KEY_006: special token for evaluation query routing.
+Error handling path 6 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 7
+module_name = "module_7"
+owner = "team_0"
+service_7 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_007: recursive summarization anchor for chunk 7.
+SEARCH_KEY_007: special token for evaluation query routing.
+Error handling path 7 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 8
+module_name = "module_8"
+owner = "team_1"
+service_8 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_008: recursive summarization anchor for chunk 8.
+SEARCH_KEY_008: special token for evaluation query routing.
+Error handling path 8 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 9
+module_name = "module_9"
+owner = "team_2"
+service_0 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_009: recursive summarization anchor for chunk 9.
+SEARCH_KEY_009: special token for evaluation query routing.
+Error handling path 9 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 10
+module_name = "module_10"
+owner = "team_3"
+service_1 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_010: recursive summarization anchor for chunk 10.
+SEARCH_KEY_010: special token for evaluation query routing.
+Error handling path 10 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 11
+module_name = "module_11"
+owner = "team_4"
+service_2 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_011: recursive summarization anchor for chunk 11.
+SEARCH_KEY_011: special token for evaluation query routing.
+Error handling path 11 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 12
+module_name = "module_12"
+owner = "team_5"
+service_3 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_012: recursive summarization anchor for chunk 12.
+SEARCH_KEY_012: special token for evaluation query routing.
+Error handling path 12 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 13
+module_name = "module_13"
+owner = "team_6"
+service_4 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_013: recursive summarization anchor for chunk 13.
+SEARCH_KEY_013: special token for evaluation query routing.
+Error handling path 13 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 14
+module_name = "module_14"
+owner = "team_0"
+service_5 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_014: recursive summarization anchor for chunk 14.
+SEARCH_KEY_014: special token for evaluation query routing.
+Error handling path 14 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 15
+module_name = "module_15"
+owner = "team_1"
+service_6 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_015: recursive summarization anchor for chunk 15.
+SEARCH_KEY_015: special token for evaluation query routing.
+Error handling path 15 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 16
+module_name = "module_16"
+owner = "team_2"
+service_7 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_016: recursive summarization anchor for chunk 16.
+SEARCH_KEY_016: special token for evaluation query routing.
+Error handling path 16 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 17
+module_name = "module_17"
+owner = "team_3"
+service_8 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_017: recursive summarization anchor for chunk 17.
+SEARCH_KEY_017: special token for evaluation query routing.
+Error handling path 17 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 18
+module_name = "module_18"
+owner = "team_4"
+service_0 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_018: recursive summarization anchor for chunk 18.
+SEARCH_KEY_018: special token for evaluation query routing.
+Error handling path 18 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 19
+module_name = "module_19"
+owner = "team_5"
+service_1 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_019: recursive summarization anchor for chunk 19.
+SEARCH_KEY_019: special token for evaluation query routing.
+Error handling path 19 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 20
+module_name = "module_20"
+owner = "team_6"
+service_2 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_020: recursive summarization anchor for chunk 20.
+SEARCH_KEY_020: special token for evaluation query routing.
+Error handling path 20 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 21
+module_name = "module_21"
+owner = "team_0"
+service_3 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_021: recursive summarization anchor for chunk 21.
+SEARCH_KEY_021: special token for evaluation query routing.
+Error handling path 21 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 22
+module_name = "module_22"
+owner = "team_1"
+service_4 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_022: recursive summarization anchor for chunk 22.
+SEARCH_KEY_022: special token for evaluation query routing.
+Error handling path 22 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 23
+module_name = "module_23"
+owner = "team_2"
+service_5 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_023: recursive summarization anchor for chunk 23.
+SEARCH_KEY_023: special token for evaluation query routing.
+Error handling path 23 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 24
+module_name = "module_24"
+owner = "team_3"
+service_6 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_024: recursive summarization anchor for chunk 24.
+SEARCH_KEY_024: special token for evaluation query routing.
+Error handling path 24 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 25
+module_name = "module_25"
+owner = "team_4"
+service_7 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_025: recursive summarization anchor for chunk 25.
+SEARCH_KEY_025: special token for evaluation query routing.
+Error handling path 25 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 26
+module_name = "module_26"
+owner = "team_5"
+service_8 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_026: recursive summarization anchor for chunk 26.
+SEARCH_KEY_026: special token for evaluation query routing.
+Error handling path 26 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 27
+module_name = "module_27"
+owner = "team_6"
+service_0 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_027: recursive summarization anchor for chunk 27.
+SEARCH_KEY_027: special token for evaluation query routing.
+Error handling path 27 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 28
+module_name = "module_28"
+owner = "team_0"
+service_1 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_028: recursive summarization anchor for chunk 28.
+SEARCH_KEY_028: special token for evaluation query routing.
+Error handling path 28 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 29
+module_name = "module_29"
+owner = "team_1"
+service_2 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_029: recursive summarization anchor for chunk 29.
+SEARCH_KEY_029: special token for evaluation query routing.
+Error handling path 29 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 30
+module_name = "module_30"
+owner = "team_2"
+service_3 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_030: recursive summarization anchor for chunk 30.
+SEARCH_KEY_030: special token for evaluation query routing.
+Error handling path 30 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 31
+module_name = "module_31"
+owner = "team_3"
+service_4 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_031: recursive summarization anchor for chunk 31.
+SEARCH_KEY_031: special token for evaluation query routing.
+Error handling path 31 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 32
+module_name = "module_32"
+owner = "team_4"
+service_5 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_032: recursive summarization anchor for chunk 32.
+SEARCH_KEY_032: special token for evaluation query routing.
+Error handling path 32 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 33
+module_name = "module_33"
+owner = "team_5"
+service_6 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_033: recursive summarization anchor for chunk 33.
+SEARCH_KEY_033: special token for evaluation query routing.
+Error handling path 33 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 34
+module_name = "module_34"
+owner = "team_6"
+service_7 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_034: recursive summarization anchor for chunk 34.
+SEARCH_KEY_034: special token for evaluation query routing.
+Error handling path 34 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 35
+module_name = "module_35"
+owner = "team_0"
+service_8 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_035: recursive summarization anchor for chunk 35.
+SEARCH_KEY_035: special token for evaluation query routing.
+Error handling path 35 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 36
+module_name = "module_36"
+owner = "team_1"
+service_0 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_036: recursive summarization anchor for chunk 36.
+SEARCH_KEY_036: special token for evaluation query routing.
+Error handling path 36 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 37
+module_name = "module_37"
+owner = "team_2"
+service_1 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_037: recursive summarization anchor for chunk 37.
+SEARCH_KEY_037: special token for evaluation query routing.
+Error handling path 37 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 38
+module_name = "module_38"
+owner = "team_3"
+service_2 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_038: recursive summarization anchor for chunk 38.
+SEARCH_KEY_038: special token for evaluation query routing.
+Error handling path 38 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 39
+module_name = "module_39"
+owner = "team_4"
+service_3 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_039: recursive summarization anchor for chunk 39.
+SEARCH_KEY_039: special token for evaluation query routing.
+Error handling path 39 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 40
+module_name = "module_40"
+owner = "team_5"
+service_4 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_040: recursive summarization anchor for chunk 40.
+SEARCH_KEY_040: special token for evaluation query routing.
+Error handling path 40 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 41
+module_name = "module_41"
+owner = "team_6"
+service_5 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_041: recursive summarization anchor for chunk 41.
+SEARCH_KEY_041: special token for evaluation query routing.
+Error handling path 41 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 42
+module_name = "module_42"
+owner = "team_0"
+service_6 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_042: recursive summarization anchor for chunk 42.
+SEARCH_KEY_042: special token for evaluation query routing.
+Error handling path 42 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 43
+module_name = "module_43"
+owner = "team_1"
+service_7 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_043: recursive summarization anchor for chunk 43.
+SEARCH_KEY_043: special token for evaluation query routing.
+Error handling path 43 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 44
+module_name = "module_44"
+owner = "team_2"
+service_8 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_044: recursive summarization anchor for chunk 44.
+SEARCH_KEY_044: special token for evaluation query routing.
+Error handling path 44 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 45
+module_name = "module_45"
+owner = "team_3"
+service_0 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_045: recursive summarization anchor for chunk 45.
+SEARCH_KEY_045: special token for evaluation query routing.
+Error handling path 45 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 46
+module_name = "module_46"
+owner = "team_4"
+service_1 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_046: recursive summarization anchor for chunk 46.
+SEARCH_KEY_046: special token for evaluation query routing.
+Error handling path 46 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 47
+module_name = "module_47"
+owner = "team_5"
+service_2 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_047: recursive summarization anchor for chunk 47.
+SEARCH_KEY_047: special token for evaluation query routing.
+Error handling path 47 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 48
+module_name = "module_48"
+owner = "team_6"
+service_3 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_048: recursive summarization anchor for chunk 48.
+SEARCH_KEY_048: special token for evaluation query routing.
+Error handling path 48 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 49
+module_name = "module_49"
+owner = "team_0"
+service_4 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_049: recursive summarization anchor for chunk 49.
+SEARCH_KEY_049: special token for evaluation query routing.
+Error handling path 49 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 50
+module_name = "module_50"
+owner = "team_1"
+service_5 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_050: recursive summarization anchor for chunk 50.
+SEARCH_KEY_050: special token for evaluation query routing.
+Error handling path 50 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 51
+module_name = "module_51"
+owner = "team_2"
+service_6 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_051: recursive summarization anchor for chunk 51.
+SEARCH_KEY_051: special token for evaluation query routing.
+Error handling path 51 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 52
+module_name = "module_52"
+owner = "team_3"
+service_7 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_052: recursive summarization anchor for chunk 52.
+SEARCH_KEY_052: special token for evaluation query routing.
+Error handling path 52 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 53
+module_name = "module_53"
+owner = "team_4"
+service_8 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_053: recursive summarization anchor for chunk 53.
+SEARCH_KEY_053: special token for evaluation query routing.
+Error handling path 53 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 54
+module_name = "module_54"
+owner = "team_5"
+service_0 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_054: recursive summarization anchor for chunk 54.
+SEARCH_KEY_054: special token for evaluation query routing.
+Error handling path 54 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 55
+module_name = "module_55"
+owner = "team_6"
+service_1 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_055: recursive summarization anchor for chunk 55.
+SEARCH_KEY_055: special token for evaluation query routing.
+Error handling path 55 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 56
+module_name = "module_56"
+owner = "team_0"
+service_2 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_056: recursive summarization anchor for chunk 56.
+SEARCH_KEY_056: special token for evaluation query routing.
+Error handling path 56 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 57
+module_name = "module_57"
+owner = "team_1"
+service_3 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_057: recursive summarization anchor for chunk 57.
+SEARCH_KEY_057: special token for evaluation query routing.
+Error handling path 57 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 58
+module_name = "module_58"
+owner = "team_2"
+service_4 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_058: recursive summarization anchor for chunk 58.
+SEARCH_KEY_058: special token for evaluation query routing.
+Error handling path 58 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 59
+module_name = "module_59"
+owner = "team_3"
+service_5 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_059: recursive summarization anchor for chunk 59.
+SEARCH_KEY_059: special token for evaluation query routing.
+Error handling path 59 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 60
+module_name = "module_60"
+owner = "team_4"
+service_6 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_060: recursive summarization anchor for chunk 60.
+SEARCH_KEY_060: special token for evaluation query routing.
+Error handling path 60 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 61
+module_name = "module_61"
+owner = "team_5"
+service_7 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_061: recursive summarization anchor for chunk 61.
+SEARCH_KEY_061: special token for evaluation query routing.
+Error handling path 61 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 62
+module_name = "module_62"
+owner = "team_6"
+service_8 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_062: recursive summarization anchor for chunk 62.
+SEARCH_KEY_062: special token for evaluation query routing.
+Error handling path 62 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 63
+module_name = "module_63"
+owner = "team_0"
+service_0 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_063: recursive summarization anchor for chunk 63.
+SEARCH_KEY_063: special token for evaluation query routing.
+Error handling path 63 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 64
+module_name = "module_64"
+owner = "team_1"
+service_1 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_064: recursive summarization anchor for chunk 64.
+SEARCH_KEY_064: special token for evaluation query routing.
+Error handling path 64 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 65
+module_name = "module_65"
+owner = "team_2"
+service_2 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_065: recursive summarization anchor for chunk 65.
+SEARCH_KEY_065: special token for evaluation query routing.
+Error handling path 65 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 66
+module_name = "module_66"
+owner = "team_3"
+service_3 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_066: recursive summarization anchor for chunk 66.
+SEARCH_KEY_066: special token for evaluation query routing.
+Error handling path 66 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 67
+module_name = "module_67"
+owner = "team_4"
+service_4 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_067: recursive summarization anchor for chunk 67.
+SEARCH_KEY_067: special token for evaluation query routing.
+Error handling path 67 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 68
+module_name = "module_68"
+owner = "team_5"
+service_5 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_068: recursive summarization anchor for chunk 68.
+SEARCH_KEY_068: special token for evaluation query routing.
+Error handling path 68 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 69
+module_name = "module_69"
+owner = "team_6"
+service_6 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_069: recursive summarization anchor for chunk 69.
+SEARCH_KEY_069: special token for evaluation query routing.
+Error handling path 69 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 70
+module_name = "module_70"
+owner = "team_0"
+service_7 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_070: recursive summarization anchor for chunk 70.
+SEARCH_KEY_070: special token for evaluation query routing.
+Error handling path 70 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 71
+module_name = "module_71"
+owner = "team_1"
+service_8 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_071: recursive summarization anchor for chunk 71.
+SEARCH_KEY_071: special token for evaluation query routing.
+Error handling path 71 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 72
+module_name = "module_72"
+owner = "team_2"
+service_0 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_072: recursive summarization anchor for chunk 72.
+SEARCH_KEY_072: special token for evaluation query routing.
+Error handling path 72 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 73
+module_name = "module_73"
+owner = "team_3"
+service_1 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_073: recursive summarization anchor for chunk 73.
+SEARCH_KEY_073: special token for evaluation query routing.
+Error handling path 73 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 74
+module_name = "module_74"
+owner = "team_4"
+service_2 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_074: recursive summarization anchor for chunk 74.
+SEARCH_KEY_074: special token for evaluation query routing.
+Error handling path 74 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 75
+module_name = "module_75"
+owner = "team_5"
+service_3 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_075: recursive summarization anchor for chunk 75.
+SEARCH_KEY_075: special token for evaluation query routing.
+Error handling path 75 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 76
+module_name = "module_76"
+owner = "team_6"
+service_4 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_076: recursive summarization anchor for chunk 76.
+SEARCH_KEY_076: special token for evaluation query routing.
+Error handling path 76 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 77
+module_name = "module_77"
+owner = "team_0"
+service_5 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_077: recursive summarization anchor for chunk 77.
+SEARCH_KEY_077: special token for evaluation query routing.
+Error handling path 77 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 78
+module_name = "module_78"
+owner = "team_1"
+service_6 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_078: recursive summarization anchor for chunk 78.
+SEARCH_KEY_078: special token for evaluation query routing.
+Error handling path 78 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 79
+module_name = "module_79"
+owner = "team_2"
+service_7 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_079: recursive summarization anchor for chunk 79.
+SEARCH_KEY_079: special token for evaluation query routing.
+Error handling path 79 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 80
+module_name = "module_80"
+owner = "team_3"
+service_8 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_080: recursive summarization anchor for chunk 80.
+SEARCH_KEY_080: special token for evaluation query routing.
+Error handling path 80 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 81
+module_name = "module_81"
+owner = "team_4"
+service_0 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_081: recursive summarization anchor for chunk 81.
+SEARCH_KEY_081: special token for evaluation query routing.
+Error handling path 81 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 82
+module_name = "module_82"
+owner = "team_5"
+service_1 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_082: recursive summarization anchor for chunk 82.
+SEARCH_KEY_082: special token for evaluation query routing.
+Error handling path 82 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 83
+module_name = "module_83"
+owner = "team_6"
+service_2 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_083: recursive summarization anchor for chunk 83.
+SEARCH_KEY_083: special token for evaluation query routing.
+Error handling path 83 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 84
+module_name = "module_84"
+owner = "team_0"
+service_3 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_084: recursive summarization anchor for chunk 84.
+SEARCH_KEY_084: special token for evaluation query routing.
+Error handling path 84 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 85
+module_name = "module_85"
+owner = "team_1"
+service_4 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_085: recursive summarization anchor for chunk 85.
+SEARCH_KEY_085: special token for evaluation query routing.
+Error handling path 85 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 86
+module_name = "module_86"
+owner = "team_2"
+service_5 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_086: recursive summarization anchor for chunk 86.
+SEARCH_KEY_086: special token for evaluation query routing.
+Error handling path 86 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 87
+module_name = "module_87"
+owner = "team_3"
+service_6 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_087: recursive summarization anchor for chunk 87.
+SEARCH_KEY_087: special token for evaluation query routing.
+Error handling path 87 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 88
+module_name = "module_88"
+owner = "team_4"
+service_7 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_088: recursive summarization anchor for chunk 88.
+SEARCH_KEY_088: special token for evaluation query routing.
+Error handling path 88 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 89
+module_name = "module_89"
+owner = "team_5"
+service_8 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_089: recursive summarization anchor for chunk 89.
+SEARCH_KEY_089: special token for evaluation query routing.
+Error handling path 89 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 90
+module_name = "module_90"
+owner = "team_6"
+service_0 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_090: recursive summarization anchor for chunk 90.
+SEARCH_KEY_090: special token for evaluation query routing.
+Error handling path 90 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 91
+module_name = "module_91"
+owner = "team_0"
+service_1 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_091: recursive summarization anchor for chunk 91.
+SEARCH_KEY_091: special token for evaluation query routing.
+Error handling path 91 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 92
+module_name = "module_92"
+owner = "team_1"
+service_2 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_092: recursive summarization anchor for chunk 92.
+SEARCH_KEY_092: special token for evaluation query routing.
+Error handling path 92 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 93
+module_name = "module_93"
+owner = "team_2"
+service_3 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_093: recursive summarization anchor for chunk 93.
+SEARCH_KEY_093: special token for evaluation query routing.
+Error handling path 93 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 94
+module_name = "module_94"
+owner = "team_3"
+service_4 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_094: recursive summarization anchor for chunk 94.
+SEARCH_KEY_094: special token for evaluation query routing.
+Error handling path 94 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 95
+module_name = "module_95"
+owner = "team_4"
+service_5 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_095: recursive summarization anchor for chunk 95.
+SEARCH_KEY_095: special token for evaluation query routing.
+Error handling path 95 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 96
+module_name = "module_96"
+owner = "team_5"
+service_6 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_096: recursive summarization anchor for chunk 96.
+SEARCH_KEY_096: special token for evaluation query routing.
+Error handling path 96 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 97
+module_name = "module_97"
+owner = "team_6"
+service_7 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_097: recursive summarization anchor for chunk 97.
+SEARCH_KEY_097: special token for evaluation query routing.
+Error handling path 97 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 98
+module_name = "module_98"
+owner = "team_0"
+service_8 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_098: recursive summarization anchor for chunk 98.
+SEARCH_KEY_098: special token for evaluation query routing.
+Error handling path 98 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 99
+module_name = "module_99"
+owner = "team_1"
+service_0 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_099: recursive summarization anchor for chunk 99.
+SEARCH_KEY_099: special token for evaluation query routing.
+Error handling path 99 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 100
+module_name = "module_100"
+owner = "team_2"
+service_1 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_100: recursive summarization anchor for chunk 100.
+SEARCH_KEY_100: special token for evaluation query routing.
+Error handling path 100 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 101
+module_name = "module_101"
+owner = "team_3"
+service_2 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_101: recursive summarization anchor for chunk 101.
+SEARCH_KEY_101: special token for evaluation query routing.
+Error handling path 101 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 102
+module_name = "module_102"
+owner = "team_4"
+service_3 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_102: recursive summarization anchor for chunk 102.
+SEARCH_KEY_102: special token for evaluation query routing.
+Error handling path 102 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 103
+module_name = "module_103"
+owner = "team_5"
+service_4 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_103: recursive summarization anchor for chunk 103.
+SEARCH_KEY_103: special token for evaluation query routing.
+Error handling path 103 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 104
+module_name = "module_104"
+owner = "team_6"
+service_5 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_104: recursive summarization anchor for chunk 104.
+SEARCH_KEY_104: special token for evaluation query routing.
+Error handling path 104 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 105
+module_name = "module_105"
+owner = "team_0"
+service_6 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_105: recursive summarization anchor for chunk 105.
+SEARCH_KEY_105: special token for evaluation query routing.
+Error handling path 105 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 106
+module_name = "module_106"
+owner = "team_1"
+service_7 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_106: recursive summarization anchor for chunk 106.
+SEARCH_KEY_106: special token for evaluation query routing.
+Error handling path 106 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 107
+module_name = "module_107"
+owner = "team_2"
+service_8 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_107: recursive summarization anchor for chunk 107.
+SEARCH_KEY_107: special token for evaluation query routing.
+Error handling path 107 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 108
+module_name = "module_108"
+owner = "team_3"
+service_0 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_108: recursive summarization anchor for chunk 108.
+SEARCH_KEY_108: special token for evaluation query routing.
+Error handling path 108 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 109
+module_name = "module_109"
+owner = "team_4"
+service_1 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_109: recursive summarization anchor for chunk 109.
+SEARCH_KEY_109: special token for evaluation query routing.
+Error handling path 109 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 110
+module_name = "module_110"
+owner = "team_5"
+service_2 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_110: recursive summarization anchor for chunk 110.
+SEARCH_KEY_110: special token for evaluation query routing.
+Error handling path 110 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 111
+module_name = "module_111"
+owner = "team_6"
+service_3 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_111: recursive summarization anchor for chunk 111.
+SEARCH_KEY_111: special token for evaluation query routing.
+Error handling path 111 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 112
+module_name = "module_112"
+owner = "team_0"
+service_4 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_112: recursive summarization anchor for chunk 112.
+SEARCH_KEY_112: special token for evaluation query routing.
+Error handling path 112 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 113
+module_name = "module_113"
+owner = "team_1"
+service_5 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_113: recursive summarization anchor for chunk 113.
+SEARCH_KEY_113: special token for evaluation query routing.
+Error handling path 113 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 114
+module_name = "module_114"
+owner = "team_2"
+service_6 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_114: recursive summarization anchor for chunk 114.
+SEARCH_KEY_114: special token for evaluation query routing.
+Error handling path 114 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 115
+module_name = "module_115"
+owner = "team_3"
+service_7 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_115: recursive summarization anchor for chunk 115.
+SEARCH_KEY_115: special token for evaluation query routing.
+Error handling path 115 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 116
+module_name = "module_116"
+owner = "team_4"
+service_8 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_116: recursive summarization anchor for chunk 116.
+SEARCH_KEY_116: special token for evaluation query routing.
+Error handling path 116 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 117
+module_name = "module_117"
+owner = "team_5"
+service_0 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_117: recursive summarization anchor for chunk 117.
+SEARCH_KEY_117: special token for evaluation query routing.
+Error handling path 117 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 118
+module_name = "module_118"
+owner = "team_6"
+service_1 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_118: recursive summarization anchor for chunk 118.
+SEARCH_KEY_118: special token for evaluation query routing.
+Error handling path 118 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 119
+module_name = "module_119"
+owner = "team_0"
+service_2 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_119: recursive summarization anchor for chunk 119.
+SEARCH_KEY_119: special token for evaluation query routing.
+Error handling path 119 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 120
+module_name = "module_120"
+owner = "team_1"
+service_3 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_120: recursive summarization anchor for chunk 120.
+SEARCH_KEY_120: special token for evaluation query routing.
+Error handling path 120 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 121
+module_name = "module_121"
+owner = "team_2"
+service_4 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_121: recursive summarization anchor for chunk 121.
+SEARCH_KEY_121: special token for evaluation query routing.
+Error handling path 121 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 122
+module_name = "module_122"
+owner = "team_3"
+service_5 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_122: recursive summarization anchor for chunk 122.
+SEARCH_KEY_122: special token for evaluation query routing.
+Error handling path 122 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 123
+module_name = "module_123"
+owner = "team_4"
+service_6 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_123: recursive summarization anchor for chunk 123.
+SEARCH_KEY_123: special token for evaluation query routing.
+Error handling path 123 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 124
+module_name = "module_124"
+owner = "team_5"
+service_7 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_124: recursive summarization anchor for chunk 124.
+SEARCH_KEY_124: special token for evaluation query routing.
+Error handling path 124 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 125
+module_name = "module_125"
+owner = "team_6"
+service_8 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_125: recursive summarization anchor for chunk 125.
+SEARCH_KEY_125: special token for evaluation query routing.
+Error handling path 125 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 126
+module_name = "module_126"
+owner = "team_0"
+service_0 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_126: recursive summarization anchor for chunk 126.
+SEARCH_KEY_126: special token for evaluation query routing.
+Error handling path 126 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 127
+module_name = "module_127"
+owner = "team_1"
+service_1 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_127: recursive summarization anchor for chunk 127.
+SEARCH_KEY_127: special token for evaluation query routing.
+Error handling path 127 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 128
+module_name = "module_128"
+owner = "team_2"
+service_2 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_128: recursive summarization anchor for chunk 128.
+SEARCH_KEY_128: special token for evaluation query routing.
+Error handling path 128 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 129
+module_name = "module_129"
+owner = "team_3"
+service_3 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_129: recursive summarization anchor for chunk 129.
+SEARCH_KEY_129: special token for evaluation query routing.
+Error handling path 129 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 130
+module_name = "module_130"
+owner = "team_4"
+service_4 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_130: recursive summarization anchor for chunk 130.
+SEARCH_KEY_130: special token for evaluation query routing.
+Error handling path 130 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 131
+module_name = "module_131"
+owner = "team_5"
+service_5 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_131: recursive summarization anchor for chunk 131.
+SEARCH_KEY_131: special token for evaluation query routing.
+Error handling path 131 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 132
+module_name = "module_132"
+owner = "team_6"
+service_6 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_132: recursive summarization anchor for chunk 132.
+SEARCH_KEY_132: special token for evaluation query routing.
+Error handling path 132 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 133
+module_name = "module_133"
+owner = "team_0"
+service_7 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_133: recursive summarization anchor for chunk 133.
+SEARCH_KEY_133: special token for evaluation query routing.
+Error handling path 133 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 134
+module_name = "module_134"
+owner = "team_1"
+service_8 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_134: recursive summarization anchor for chunk 134.
+SEARCH_KEY_134: special token for evaluation query routing.
+Error handling path 134 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 135
+module_name = "module_135"
+owner = "team_2"
+service_0 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_135: recursive summarization anchor for chunk 135.
+SEARCH_KEY_135: special token for evaluation query routing.
+Error handling path 135 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 136
+module_name = "module_136"
+owner = "team_3"
+service_1 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_136: recursive summarization anchor for chunk 136.
+SEARCH_KEY_136: special token for evaluation query routing.
+Error handling path 136 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 137
+module_name = "module_137"
+owner = "team_4"
+service_2 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_137: recursive summarization anchor for chunk 137.
+SEARCH_KEY_137: special token for evaluation query routing.
+Error handling path 137 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 138
+module_name = "module_138"
+owner = "team_5"
+service_3 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_138: recursive summarization anchor for chunk 138.
+SEARCH_KEY_138: special token for evaluation query routing.
+Error handling path 138 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 139
+module_name = "module_139"
+owner = "team_6"
+service_4 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_139: recursive summarization anchor for chunk 139.
+SEARCH_KEY_139: special token for evaluation query routing.
+Error handling path 139 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 140
+module_name = "module_140"
+owner = "team_0"
+service_5 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_140: recursive summarization anchor for chunk 140.
+SEARCH_KEY_140: special token for evaluation query routing.
+Error handling path 140 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 141
+module_name = "module_141"
+owner = "team_1"
+service_6 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_141: recursive summarization anchor for chunk 141.
+SEARCH_KEY_141: special token for evaluation query routing.
+Error handling path 141 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 142
+module_name = "module_142"
+owner = "team_2"
+service_7 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_142: recursive summarization anchor for chunk 142.
+SEARCH_KEY_142: special token for evaluation query routing.
+Error handling path 142 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 143
+module_name = "module_143"
+owner = "team_3"
+service_8 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_143: recursive summarization anchor for chunk 143.
+SEARCH_KEY_143: special token for evaluation query routing.
+Error handling path 143 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 144
+module_name = "module_144"
+owner = "team_4"
+service_0 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_144: recursive summarization anchor for chunk 144.
+SEARCH_KEY_144: special token for evaluation query routing.
+Error handling path 144 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 145
+module_name = "module_145"
+owner = "team_5"
+service_1 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_145: recursive summarization anchor for chunk 145.
+SEARCH_KEY_145: special token for evaluation query routing.
+Error handling path 145 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 146
+module_name = "module_146"
+owner = "team_6"
+service_2 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_146: recursive summarization anchor for chunk 146.
+SEARCH_KEY_146: special token for evaluation query routing.
+Error handling path 146 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 147
+module_name = "module_147"
+owner = "team_0"
+service_3 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_147: recursive summarization anchor for chunk 147.
+SEARCH_KEY_147: special token for evaluation query routing.
+Error handling path 147 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 148
+module_name = "module_148"
+owner = "team_1"
+service_4 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_148: recursive summarization anchor for chunk 148.
+SEARCH_KEY_148: special token for evaluation query routing.
+Error handling path 148 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 149
+module_name = "module_149"
+owner = "team_2"
+service_5 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_149: recursive summarization anchor for chunk 149.
+SEARCH_KEY_149: special token for evaluation query routing.
+Error handling path 149 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 150
+module_name = "module_150"
+owner = "team_3"
+service_6 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_150: recursive summarization anchor for chunk 150.
+SEARCH_KEY_150: special token for evaluation query routing.
+Error handling path 150 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 151
+module_name = "module_151"
+owner = "team_4"
+service_7 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_151: recursive summarization anchor for chunk 151.
+SEARCH_KEY_151: special token for evaluation query routing.
+Error handling path 151 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 152
+module_name = "module_152"
+owner = "team_5"
+service_8 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_152: recursive summarization anchor for chunk 152.
+SEARCH_KEY_152: special token for evaluation query routing.
+Error handling path 152 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 153
+module_name = "module_153"
+owner = "team_6"
+service_0 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_153: recursive summarization anchor for chunk 153.
+SEARCH_KEY_153: special token for evaluation query routing.
+Error handling path 153 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 154
+module_name = "module_154"
+owner = "team_0"
+service_1 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_154: recursive summarization anchor for chunk 154.
+SEARCH_KEY_154: special token for evaluation query routing.
+Error handling path 154 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 155
+module_name = "module_155"
+owner = "team_1"
+service_2 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_155: recursive summarization anchor for chunk 155.
+SEARCH_KEY_155: special token for evaluation query routing.
+Error handling path 155 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 156
+module_name = "module_156"
+owner = "team_2"
+service_3 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_156: recursive summarization anchor for chunk 156.
+SEARCH_KEY_156: special token for evaluation query routing.
+Error handling path 156 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 157
+module_name = "module_157"
+owner = "team_3"
+service_4 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_157: recursive summarization anchor for chunk 157.
+SEARCH_KEY_157: special token for evaluation query routing.
+Error handling path 157 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 158
+module_name = "module_158"
+owner = "team_4"
+service_5 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_158: recursive summarization anchor for chunk 158.
+SEARCH_KEY_158: special token for evaluation query routing.
+Error handling path 158 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 159
+module_name = "module_159"
+owner = "team_5"
+service_6 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_159: recursive summarization anchor for chunk 159.
+SEARCH_KEY_159: special token for evaluation query routing.
+Error handling path 159 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 160
+module_name = "module_160"
+owner = "team_6"
+service_7 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_160: recursive summarization anchor for chunk 160.
+SEARCH_KEY_160: special token for evaluation query routing.
+Error handling path 160 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 161
+module_name = "module_161"
+owner = "team_0"
+service_8 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_161: recursive summarization anchor for chunk 161.
+SEARCH_KEY_161: special token for evaluation query routing.
+Error handling path 161 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 162
+module_name = "module_162"
+owner = "team_1"
+service_0 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_162: recursive summarization anchor for chunk 162.
+SEARCH_KEY_162: special token for evaluation query routing.
+Error handling path 162 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 163
+module_name = "module_163"
+owner = "team_2"
+service_1 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_163: recursive summarization anchor for chunk 163.
+SEARCH_KEY_163: special token for evaluation query routing.
+Error handling path 163 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 164
+module_name = "module_164"
+owner = "team_3"
+service_2 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_164: recursive summarization anchor for chunk 164.
+SEARCH_KEY_164: special token for evaluation query routing.
+Error handling path 164 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 165
+module_name = "module_165"
+owner = "team_4"
+service_3 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_165: recursive summarization anchor for chunk 165.
+SEARCH_KEY_165: special token for evaluation query routing.
+Error handling path 165 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 166
+module_name = "module_166"
+owner = "team_5"
+service_4 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_166: recursive summarization anchor for chunk 166.
+SEARCH_KEY_166: special token for evaluation query routing.
+Error handling path 166 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 167
+module_name = "module_167"
+owner = "team_6"
+service_5 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_167: recursive summarization anchor for chunk 167.
+SEARCH_KEY_167: special token for evaluation query routing.
+Error handling path 167 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 168
+module_name = "module_168"
+owner = "team_0"
+service_6 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_168: recursive summarization anchor for chunk 168.
+SEARCH_KEY_168: special token for evaluation query routing.
+Error handling path 168 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 169
+module_name = "module_169"
+owner = "team_1"
+service_7 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_169: recursive summarization anchor for chunk 169.
+SEARCH_KEY_169: special token for evaluation query routing.
+Error handling path 169 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 170
+module_name = "module_170"
+owner = "team_2"
+service_8 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_170: recursive summarization anchor for chunk 170.
+SEARCH_KEY_170: special token for evaluation query routing.
+Error handling path 170 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 171
+module_name = "module_171"
+owner = "team_3"
+service_0 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_171: recursive summarization anchor for chunk 171.
+SEARCH_KEY_171: special token for evaluation query routing.
+Error handling path 171 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 172
+module_name = "module_172"
+owner = "team_4"
+service_1 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_172: recursive summarization anchor for chunk 172.
+SEARCH_KEY_172: special token for evaluation query routing.
+Error handling path 172 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 173
+module_name = "module_173"
+owner = "team_5"
+service_2 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_173: recursive summarization anchor for chunk 173.
+SEARCH_KEY_173: special token for evaluation query routing.
+Error handling path 173 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 174
+module_name = "module_174"
+owner = "team_6"
+service_3 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_174: recursive summarization anchor for chunk 174.
+SEARCH_KEY_174: special token for evaluation query routing.
+Error handling path 174 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 175
+module_name = "module_175"
+owner = "team_0"
+service_4 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_175: recursive summarization anchor for chunk 175.
+SEARCH_KEY_175: special token for evaluation query routing.
+Error handling path 175 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 176
+module_name = "module_176"
+owner = "team_1"
+service_5 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_176: recursive summarization anchor for chunk 176.
+SEARCH_KEY_176: special token for evaluation query routing.
+Error handling path 176 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 177
+module_name = "module_177"
+owner = "team_2"
+service_6 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_177: recursive summarization anchor for chunk 177.
+SEARCH_KEY_177: special token for evaluation query routing.
+Error handling path 177 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 178
+module_name = "module_178"
+owner = "team_3"
+service_7 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_178: recursive summarization anchor for chunk 178.
+SEARCH_KEY_178: special token for evaluation query routing.
+Error handling path 178 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 179
+module_name = "module_179"
+owner = "team_4"
+service_8 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_179: recursive summarization anchor for chunk 179.
+SEARCH_KEY_179: special token for evaluation query routing.
+Error handling path 179 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 180
+module_name = "module_180"
+owner = "team_5"
+service_0 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_180: recursive summarization anchor for chunk 180.
+SEARCH_KEY_180: special token for evaluation query routing.
+Error handling path 180 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 181
+module_name = "module_181"
+owner = "team_6"
+service_1 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_181: recursive summarization anchor for chunk 181.
+SEARCH_KEY_181: special token for evaluation query routing.
+Error handling path 181 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 182
+module_name = "module_182"
+owner = "team_0"
+service_2 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_182: recursive summarization anchor for chunk 182.
+SEARCH_KEY_182: special token for evaluation query routing.
+Error handling path 182 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 183
+module_name = "module_183"
+owner = "team_1"
+service_3 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_183: recursive summarization anchor for chunk 183.
+SEARCH_KEY_183: special token for evaluation query routing.
+Error handling path 183 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 184
+module_name = "module_184"
+owner = "team_2"
+service_4 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_184: recursive summarization anchor for chunk 184.
+SEARCH_KEY_184: special token for evaluation query routing.
+Error handling path 184 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 185
+module_name = "module_185"
+owner = "team_3"
+service_5 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_185: recursive summarization anchor for chunk 185.
+SEARCH_KEY_185: special token for evaluation query routing.
+Error handling path 185 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 186
+module_name = "module_186"
+owner = "team_4"
+service_6 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_186: recursive summarization anchor for chunk 186.
+SEARCH_KEY_186: special token for evaluation query routing.
+Error handling path 186 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 187
+module_name = "module_187"
+owner = "team_5"
+service_7 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_187: recursive summarization anchor for chunk 187.
+SEARCH_KEY_187: special token for evaluation query routing.
+Error handling path 187 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 188
+module_name = "module_188"
+owner = "team_6"
+service_8 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_188: recursive summarization anchor for chunk 188.
+SEARCH_KEY_188: special token for evaluation query routing.
+Error handling path 188 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 189
+module_name = "module_189"
+owner = "team_0"
+service_0 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_189: recursive summarization anchor for chunk 189.
+SEARCH_KEY_189: special token for evaluation query routing.
+Error handling path 189 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 190
+module_name = "module_190"
+owner = "team_1"
+service_1 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_190: recursive summarization anchor for chunk 190.
+SEARCH_KEY_190: special token for evaluation query routing.
+Error handling path 190 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 191
+module_name = "module_191"
+owner = "team_2"
+service_2 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_191: recursive summarization anchor for chunk 191.
+SEARCH_KEY_191: special token for evaluation query routing.
+Error handling path 191 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 192
+module_name = "module_192"
+owner = "team_3"
+service_3 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_192: recursive summarization anchor for chunk 192.
+SEARCH_KEY_192: special token for evaluation query routing.
+Error handling path 192 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 193
+module_name = "module_193"
+owner = "team_4"
+service_4 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_193: recursive summarization anchor for chunk 193.
+SEARCH_KEY_193: special token for evaluation query routing.
+Error handling path 193 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 194
+module_name = "module_194"
+owner = "team_5"
+service_5 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_194: recursive summarization anchor for chunk 194.
+SEARCH_KEY_194: special token for evaluation query routing.
+Error handling path 194 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 195
+module_name = "module_195"
+owner = "team_6"
+service_6 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_195: recursive summarization anchor for chunk 195.
+SEARCH_KEY_195: special token for evaluation query routing.
+Error handling path 195 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 196
+module_name = "module_196"
+owner = "team_0"
+service_7 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_196: recursive summarization anchor for chunk 196.
+SEARCH_KEY_196: special token for evaluation query routing.
+Error handling path 196 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 197
+module_name = "module_197"
+owner = "team_1"
+service_8 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_197: recursive summarization anchor for chunk 197.
+SEARCH_KEY_197: special token for evaluation query routing.
+Error handling path 197 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 198
+module_name = "module_198"
+owner = "team_2"
+service_0 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_198: recursive summarization anchor for chunk 198.
+SEARCH_KEY_198: special token for evaluation query routing.
+Error handling path 198 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 199
+module_name = "module_199"
+owner = "team_3"
+service_1 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_199: recursive summarization anchor for chunk 199.
+SEARCH_KEY_199: special token for evaluation query routing.
+Error handling path 199 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 200
+module_name = "module_200"
+owner = "team_4"
+service_2 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_200: recursive summarization anchor for chunk 200.
+SEARCH_KEY_200: special token for evaluation query routing.
+Error handling path 200 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 201
+module_name = "module_201"
+owner = "team_5"
+service_3 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_201: recursive summarization anchor for chunk 201.
+SEARCH_KEY_201: special token for evaluation query routing.
+Error handling path 201 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 202
+module_name = "module_202"
+owner = "team_6"
+service_4 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_202: recursive summarization anchor for chunk 202.
+SEARCH_KEY_202: special token for evaluation query routing.
+Error handling path 202 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 203
+module_name = "module_203"
+owner = "team_0"
+service_5 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_203: recursive summarization anchor for chunk 203.
+SEARCH_KEY_203: special token for evaluation query routing.
+Error handling path 203 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 204
+module_name = "module_204"
+owner = "team_1"
+service_6 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_204: recursive summarization anchor for chunk 204.
+SEARCH_KEY_204: special token for evaluation query routing.
+Error handling path 204 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 205
+module_name = "module_205"
+owner = "team_2"
+service_7 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_205: recursive summarization anchor for chunk 205.
+SEARCH_KEY_205: special token for evaluation query routing.
+Error handling path 205 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 206
+module_name = "module_206"
+owner = "team_3"
+service_8 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_206: recursive summarization anchor for chunk 206.
+SEARCH_KEY_206: special token for evaluation query routing.
+Error handling path 206 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 207
+module_name = "module_207"
+owner = "team_4"
+service_0 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_207: recursive summarization anchor for chunk 207.
+SEARCH_KEY_207: special token for evaluation query routing.
+Error handling path 207 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 208
+module_name = "module_208"
+owner = "team_5"
+service_1 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_208: recursive summarization anchor for chunk 208.
+SEARCH_KEY_208: special token for evaluation query routing.
+Error handling path 208 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 209
+module_name = "module_209"
+owner = "team_6"
+service_2 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_209: recursive summarization anchor for chunk 209.
+SEARCH_KEY_209: special token for evaluation query routing.
+Error handling path 209 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 210
+module_name = "module_210"
+owner = "team_0"
+service_3 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_210: recursive summarization anchor for chunk 210.
+SEARCH_KEY_210: special token for evaluation query routing.
+Error handling path 210 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 211
+module_name = "module_211"
+owner = "team_1"
+service_4 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_211: recursive summarization anchor for chunk 211.
+SEARCH_KEY_211: special token for evaluation query routing.
+Error handling path 211 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 212
+module_name = "module_212"
+owner = "team_2"
+service_5 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_212: recursive summarization anchor for chunk 212.
+SEARCH_KEY_212: special token for evaluation query routing.
+Error handling path 212 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 213
+module_name = "module_213"
+owner = "team_3"
+service_6 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_213: recursive summarization anchor for chunk 213.
+SEARCH_KEY_213: special token for evaluation query routing.
+Error handling path 213 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 214
+module_name = "module_214"
+owner = "team_4"
+service_7 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_214: recursive summarization anchor for chunk 214.
+SEARCH_KEY_214: special token for evaluation query routing.
+Error handling path 214 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 215
+module_name = "module_215"
+owner = "team_5"
+service_8 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_215: recursive summarization anchor for chunk 215.
+SEARCH_KEY_215: special token for evaluation query routing.
+Error handling path 215 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 216
+module_name = "module_216"
+owner = "team_6"
+service_0 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_216: recursive summarization anchor for chunk 216.
+SEARCH_KEY_216: special token for evaluation query routing.
+Error handling path 216 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 217
+module_name = "module_217"
+owner = "team_0"
+service_1 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_217: recursive summarization anchor for chunk 217.
+SEARCH_KEY_217: special token for evaluation query routing.
+Error handling path 217 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 218
+module_name = "module_218"
+owner = "team_1"
+service_2 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_218: recursive summarization anchor for chunk 218.
+SEARCH_KEY_218: special token for evaluation query routing.
+Error handling path 218 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 219
+module_name = "module_219"
+owner = "team_2"
+service_3 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_219: recursive summarization anchor for chunk 219.
+SEARCH_KEY_219: special token for evaluation query routing.
+Error handling path 219 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 220
+module_name = "module_220"
+owner = "team_3"
+service_4 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_220: recursive summarization anchor for chunk 220.
+SEARCH_KEY_220: special token for evaluation query routing.
+Error handling path 220 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 221
+module_name = "module_221"
+owner = "team_4"
+service_5 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_221: recursive summarization anchor for chunk 221.
+SEARCH_KEY_221: special token for evaluation query routing.
+Error handling path 221 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 222
+module_name = "module_222"
+owner = "team_5"
+service_6 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_222: recursive summarization anchor for chunk 222.
+SEARCH_KEY_222: special token for evaluation query routing.
+Error handling path 222 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 223
+module_name = "module_223"
+owner = "team_6"
+service_7 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_223: recursive summarization anchor for chunk 223.
+SEARCH_KEY_223: special token for evaluation query routing.
+Error handling path 223 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 224
+module_name = "module_224"
+owner = "team_0"
+service_8 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_224: recursive summarization anchor for chunk 224.
+SEARCH_KEY_224: special token for evaluation query routing.
+Error handling path 224 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 225
+module_name = "module_225"
+owner = "team_1"
+service_0 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_225: recursive summarization anchor for chunk 225.
+SEARCH_KEY_225: special token for evaluation query routing.
+Error handling path 225 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 226
+module_name = "module_226"
+owner = "team_2"
+service_1 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_226: recursive summarization anchor for chunk 226.
+SEARCH_KEY_226: special token for evaluation query routing.
+Error handling path 226 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 227
+module_name = "module_227"
+owner = "team_3"
+service_2 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_227: recursive summarization anchor for chunk 227.
+SEARCH_KEY_227: special token for evaluation query routing.
+Error handling path 227 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 228
+module_name = "module_228"
+owner = "team_4"
+service_3 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_228: recursive summarization anchor for chunk 228.
+SEARCH_KEY_228: special token for evaluation query routing.
+Error handling path 228 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 229
+module_name = "module_229"
+owner = "team_5"
+service_4 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_229: recursive summarization anchor for chunk 229.
+SEARCH_KEY_229: special token for evaluation query routing.
+Error handling path 229 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 230
+module_name = "module_230"
+owner = "team_6"
+service_5 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_230: recursive summarization anchor for chunk 230.
+SEARCH_KEY_230: special token for evaluation query routing.
+Error handling path 230 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 231
+module_name = "module_231"
+owner = "team_0"
+service_6 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_231: recursive summarization anchor for chunk 231.
+SEARCH_KEY_231: special token for evaluation query routing.
+Error handling path 231 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 232
+module_name = "module_232"
+owner = "team_1"
+service_7 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_232: recursive summarization anchor for chunk 232.
+SEARCH_KEY_232: special token for evaluation query routing.
+Error handling path 232 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 233
+module_name = "module_233"
+owner = "team_2"
+service_8 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_233: recursive summarization anchor for chunk 233.
+SEARCH_KEY_233: special token for evaluation query routing.
+Error handling path 233 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 234
+module_name = "module_234"
+owner = "team_3"
+service_0 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_234: recursive summarization anchor for chunk 234.
+SEARCH_KEY_234: special token for evaluation query routing.
+Error handling path 234 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 235
+module_name = "module_235"
+owner = "team_4"
+service_1 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_235: recursive summarization anchor for chunk 235.
+SEARCH_KEY_235: special token for evaluation query routing.
+Error handling path 235 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 236
+module_name = "module_236"
+owner = "team_5"
+service_2 emits checkpoint_1 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_236: recursive summarization anchor for chunk 236.
+SEARCH_KEY_236: special token for evaluation query routing.
+Error handling path 236 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 237
+module_name = "module_237"
+owner = "team_6"
+service_3 emits checkpoint_2 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_237: recursive summarization anchor for chunk 237.
+SEARCH_KEY_237: special token for evaluation query routing.
+Error handling path 237 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 238
+module_name = "module_238"
+owner = "team_0"
+service_4 emits checkpoint_3 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_238: recursive summarization anchor for chunk 238.
+SEARCH_KEY_238: special token for evaluation query routing.
+Error handling path 238 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 239
+module_name = "module_239"
+owner = "team_1"
+service_5 emits checkpoint_4 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_239: recursive summarization anchor for chunk 239.
+SEARCH_KEY_239: special token for evaluation query routing.
+Error handling path 239 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
+
+## Section 240
+module_name = "module_240"
+owner = "team_2"
+service_6 emits checkpoint_0 The pipeline normalizes records before indexing. Background workers flush metrics every interval. This paragraph exists to increase file size for benchmark realism.
+RLM_NOTE_240: recursive summarization anchor for chunk 240.
+SEARCH_KEY_240: special token for evaluation query routing.
+Error handling path 240 retries on timeout and stores an audit trail.
+The design keeps file reading flat in baseline mode and indexed in MCP mode.
